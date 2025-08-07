@@ -1,0 +1,1 @@
+export const environmentUser = import.meta.env.VITE_USER || 'Default User';
